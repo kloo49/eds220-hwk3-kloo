@@ -1,4 +1,7 @@
 .OTTER_LOG
+# data
+/data/tl_2026_us_county
+/data/Spill_Incidents_20261102.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
